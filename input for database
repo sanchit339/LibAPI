@@ -1,0 +1,7 @@
+/* Values to insert in table*/
+
+insert into student (id, student_name, age) values (1, 'Arun', 23);
+insert into student (id, student_name, age) values (2, 'Nancy', 25);
+insert into student (id, student_name, age) values (3, 'Daniel', 27);
+insert into book values (102, 'Java Basics', ',2);
+insert into book values (103, 'Java Advance',2);
